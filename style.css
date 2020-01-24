@@ -1,0 +1,32 @@
+.cell {
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+}
+
+.row {
+  display: flex;
+}
+
+/*CSS for the mystery picture*/
+
+.color-0 {
+  background-color: white;
+}
+
+.color-2 {
+  background-color: gold;
+}
+
+.color-3 {
+  background-color: black;
+}
+.color-4 {
+  background-color:blue;
+}
+.color-5 {
+  background-color:red;
+}
+.color-6 {
+  background-color:wheat;
+}
